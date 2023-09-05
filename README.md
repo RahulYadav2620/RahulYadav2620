@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there! 👋 ![Hello](https://example.com/hello.gif)
 
 .NET Developer with seven years of experience crafting cutting-edge solutions and prioritizing client satisfaction. Skilled in developing web applications, optimizing user experiences, and adhering to industry best practices for enhanced performance and efficiency.
 
