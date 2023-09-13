@@ -16,24 +16,13 @@
 
 ## Technologies I Work With
 
-# Project Name
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/issues)
-
-A brief description of your project.
-
-## Technologies Used
-
 ### Frontend Development
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend Development
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 
