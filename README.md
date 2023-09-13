@@ -54,15 +54,15 @@
 
 ### Cloud
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/container-registry/)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%23FF6600.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+[![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-%23FF6600.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/container-registry/)
 [![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/app-service/web/)
 [![Azure Functions](https://img.shields.io/badge/Azure%20Functions-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/functions/)
-[![Azure Virtual Machines](https://img.shields.io/badge/Azure%20Virtual%20Machines-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/virtual-machines/)
+[![Azure Virtual Machines](https://img.shields.io/badge/Azure%20Virtual%20Machines-%23FF6600.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/virtual-machines/)
 [![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/monitor/)
 [![Azure Cache for Redis](https://img.shields.io/badge/Azure%20Cache%20for%20Redis-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/cache/)
 [![Azure Storage Account](https://img.shields.io/badge/Azure%20Storage%20Account-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/storage/)
-[![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/key-vault/)
+[![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-%23FF6600.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/key-vault/)
 
 
 ### Testing
