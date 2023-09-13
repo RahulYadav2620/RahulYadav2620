@@ -16,43 +16,94 @@
 
 ## Technologies I Work With
 
+# Project Name
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/issues)
+
+A brief description of your project.
+
+## Technologies Used
+
 ### Frontend Development
-- Angular
+
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend Development
-- ASP.NET Core
-- ASP.NET Web API
-- ASP.NET MVC
-- Entity Framework (EF) Core
-- Web API
-- Model-View-Controller (MVC)
-- RabbitMQ
-- Multithreading
-- C#
-- .NET Core
-- .NET Framework
-- Microservices
-- REST APIs
-- ASP.NET
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+### Web API
+
+![Web API](https://img.shields.io/badge/Web%20API-%23777BB4.svg?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Model-View-Controller (MVC)
+
+![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
+
+### RabbitMQ
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Multithreading
+
+![Multithreading](https://img.shields.io/badge/Multithreading-%230057C6.svg?style=for-the-badge)
+
+### C#
+
+![C#](https://img.shields.io/badge/C%23-%230057C6.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### .NET Core
+
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+### .NET Framework
+
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+### Microservices
+
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge)
+
+### REST APIs
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
+
+### ASP.NET
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases
-- Microsoft SQL Server
-- MongoDB
-- Cosmos DB
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-%230078D4.svg?style=for-the-badge&logo=azure-cosmosdb&logoColor=white)
 
 ### Cloud & DevOps
-- Microsoft Azure
-- Azure DevOps
-- GitHub Actions
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Testing
-- xUnit
-- NUnit
-- MOQ
+
+![xUnit](https://img.shields.io/badge/xUnit-%23121E25.svg?style=for-the-badge&logo=xunit&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-%23151E25.svg?style=for-the-badge&logo=nunit&logoColor=white)
+![MOQ](https://img.shields.io/badge/MOQ-%23121E25.svg?style=for-the-badge)
 
 ### Other
-- Git | SVN | TFS
-- Agile Methodologies
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-%230057C6.svg?style=for-the-badge&logo=subversion&logoColor=white)
+![TFS](https://img.shields.io/badge/TFS-%230078D4.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### Agile Methodologies
+
+![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23000000.svg?style=for-the-badge)
 
 ## Works
 
