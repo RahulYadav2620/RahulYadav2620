@@ -47,11 +47,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-%230078D4.svg?style=for-the-badge&logo=azure-cosmosdb&logoColor=white)
 
-### Cloud & DevOps
+### DevOps
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Cloud
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+[![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/container-registry/)
+[![Azure Web Apps](https://img.shields.io/badge/Azure%20Web%20Apps-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/app-service/web/)
+[![Azure Functions](https://img.shields.io/badge/Azure%20Functions-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/functions/)
+[![Azure Virtual Machines](https://img.shields.io/badge/Azure%20Virtual%20Machines-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/virtual-machines/)
+[![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/monitor/)
+[![Azure Cache for Redis](https://img.shields.io/badge/Azure%20Cache%20for%20Redis-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/cache/)
+[![Azure Storage Account](https://img.shields.io/badge/Azure%20Storage%20Account-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/storage/)
+[![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/key-vault/)
+
 
 ### Testing
 
@@ -65,7 +77,7 @@
 ![SVN](https://img.shields.io/badge/SVN-%230057C6.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![TFS](https://img.shields.io/badge/TFS-%230078D4.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Agile Methodologies
+### Methodologies
 
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23000000.svg?style=for-the-badge)
 
