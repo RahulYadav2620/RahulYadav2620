@@ -16,66 +16,29 @@
 
 ## Technologies I Work With
 
-# Project Name
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name.svg?style=for-the-badge)](https://github.com/yourusername/your-repo-name/issues)
-
-A brief description of your project.
-
-## Technologies Used
-
 ### Frontend Development
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend Development
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-### Web API
-
 ![Web API](https://img.shields.io/badge/Web%20API-%23777BB4.svg?style=for-the-badge&logo=swagger&logoColor=white)
-
-### Model-View-Controller (MVC)
-
 ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
-
-### RabbitMQ
-
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Multithreading
-
 ![Multithreading](https://img.shields.io/badge/Multithreading-%230057C6.svg?style=for-the-badge)
-
-### C#
-
 ![C#](https://img.shields.io/badge/C%23-%230057C6.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### .NET Core
-
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-### .NET Framework
-
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-### Microservices
-
-![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge)
-
-### REST APIs
-
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
-
-### ASP.NET
-
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%231572B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+### Architecture
+
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=architecture&logoColor=white)
+![Monolithic Architecture](https://img.shields.io/badge/Monolithic-%23000000.svg?style=for-the-badge)
 
 ### Databases
 
