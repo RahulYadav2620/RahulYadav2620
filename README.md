@@ -129,7 +129,7 @@ Over the course of my career, I've taken on several significant roles:
 
 ## How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahulyadav2605/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahulyadav2605/)
 
 Feel free to connect with me on LinkedIn or reach out via email. I'm always open to interesting discussions and collaboration opportunities.
 
