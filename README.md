@@ -37,8 +37,8 @@
 
 ### Architecture
 
-![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge)
-![Monolithic Architecture](link_to_monolithic_image.png)
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=architecture&logoColor=white)
+![Monolithic Architecture](https://img.shields.io/badge/Monolithic%20Architecture-%23000000.svg?style=for-the-badge)
 
 ### Databases
 
