@@ -19,6 +19,7 @@
 ### Frontend Development
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%23DD0031.svg?style=for-the-badge&logo=React&logoColor=white)
 
 ### Backend Development
 
