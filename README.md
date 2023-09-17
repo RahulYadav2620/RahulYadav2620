@@ -71,7 +71,7 @@
 ![NUnit](https://img.shields.io/badge/NUnit-%23151E25.svg?style=for-the-badge&logo=nunit&logoColor=white)
 ![MOQ](https://img.shields.io/badge/MOQ-%23121E25.svg?style=for-the-badge)
 
-### Other
+### Version Control
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-%230057C6.svg?style=for-the-badge&logo=subversion&logoColor=white)
