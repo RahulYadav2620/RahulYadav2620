@@ -70,6 +70,7 @@
 ![xUnit](https://img.shields.io/badge/xUnit-%23121E25.svg?style=for-the-badge&logo=xunit&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-%23151E25.svg?style=for-the-badge&logo=nunit&logoColor=white)
 ![MOQ](https://img.shields.io/badge/MOQ-%23121E25.svg?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23121E25.svg?style=for-the-badge)
 
 ### Version Control
 
