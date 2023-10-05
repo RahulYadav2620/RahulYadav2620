@@ -1,6 +1,6 @@
 ## Hey there! 👋 
 
-.NET Developer with seven years of experience crafting cutting-edge solutions and prioritizing client satisfaction. Skilled in developing web applications, optimizing user experiences, and adhering to industry best practices for enhanced performance and efficiency.
+Microsoft certified .NET Developer with seven years of experience crafting cutting-edge solutions and prioritizing client satisfaction. Skilled in developing web applications, optimizing user experiences, and adhering to industry best practices for enhanced performance and efficiency.
 
 ## About Me
 
