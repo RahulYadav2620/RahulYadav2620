@@ -82,6 +82,10 @@
 
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23000000.svg?style=for-the-badge)
 
+## Certifications
+
+![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?style=for-the-badge&logo=microsoft)
+
 ## Works
 
 Over the course of my career, I've taken on several significant roles:
