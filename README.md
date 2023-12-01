@@ -82,6 +82,10 @@ Microsoft certified .NET Developer with seven years of experience crafting cutti
 
 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%23000000.svg?style=for-the-badge)
 
+### Containerization
+
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker)](https://www.docker.com/)
+
 ## Certifications
 
 [![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?style=for-the-badge&logo=microsoft)](https://www.yourcertificationlink.com)
