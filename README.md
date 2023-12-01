@@ -84,7 +84,7 @@ Microsoft certified .NET Developer with seven years of experience crafting cutti
 
 ## Certifications
 
-![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?style=for-the-badge&logo=microsoft)
+[![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?style=for-the-badge&logo=microsoft)](https://www.yourcertificationlink.com)
 
 ## Works
 
